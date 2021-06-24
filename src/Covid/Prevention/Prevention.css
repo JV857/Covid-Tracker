@@ -1,0 +1,77 @@
+#fragment{
+
+}
+#prevention-heading{
+    padding-top: 100px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#main-div{
+justify-content: space-between;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#prevention-card{
+    border: 5px blueviolet solid;
+    border-radius: 20px;
+height:250px;
+width:100%;
+display:flex;
+border:1px black solid;
+
+justify-content: center;
+background-color:darkblue;
+justify-content: space-around;
+}
+
+#prevention-card-img{
+    height:250px;
+    width:250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-right: 70px;
+    border-radius: 40px;
+}
+#mini-heading{
+    padding-top: 100px;
+    justify-content: center;
+    margin-right: 750px;
+    color: cornsilk;
+}
+#mini-heading1{
+    padding-top: 100px;
+    justify-content: center;
+    margin-right: 650px;
+    color: cornsilk;
+}
+#mini-heading2{
+    padding-top: 100px;
+    justify-content: center;
+    margin-right: 710px;
+    /* margin-left:300px; */
+    color: cornsilk;
+}
+#prevention-card-img2{
+    height:250px;
+    width:250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-right: 0px;
+    border-radius: 40px;
+}
+#mini-heading3{
+    padding-top: 100px;
+    justify-content: center;
+    margin-right: 800px;
+    /* margin-left:300px; */
+    color: cornsilk;
+}
+#prevention-card-img3{
+    height:250px;
+    width:250px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 0px;
+    border-radius: 40px;
+}
